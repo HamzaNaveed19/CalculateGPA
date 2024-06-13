@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CalculateGPA/static/css/main.b12ef7f0.css",
+    "main.js": "/CalculateGPA/static/js/main.3fb26e4c.js",
+    "static/js/453.afb99f15.chunk.js": "/CalculateGPA/static/js/453.afb99f15.chunk.js",
+    "static/media/dark.jpg": "/CalculateGPA/static/media/dark.909d0af704b71c3e5ad9.jpg",
+    "index.html": "/CalculateGPA/index.html",
+    "main.b12ef7f0.css.map": "/CalculateGPA/static/css/main.b12ef7f0.css.map",
+    "main.3fb26e4c.js.map": "/CalculateGPA/static/js/main.3fb26e4c.js.map",
+    "453.afb99f15.chunk.js.map": "/CalculateGPA/static/js/453.afb99f15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12ef7f0.css",
+    "static/js/main.3fb26e4c.js"
+  ]
+}
